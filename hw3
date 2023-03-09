@@ -1,0 +1,2 @@
+Have a look at the abi and the bytecode, do you understand how the abi relates to your contract's code?
+ans: ABI describes the methods in a smart contract in a human readable way. It includes each method's name and parameters. ABI is similiar to API and helps developer know how to interact with a small contract.
