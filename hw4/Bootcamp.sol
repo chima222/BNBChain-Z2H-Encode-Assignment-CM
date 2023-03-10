@@ -28,4 +28,3 @@ contract BootcampContract {
         return number;
     }
 }
-// answer to part 2
